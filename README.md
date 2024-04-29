@@ -20,5 +20,5 @@ if __name__ == "__main__":
     if result.get("success"):
         send_info(name=name, age=age, languages=languages, backend_developer=True)
 ```
-
+Give my projects a ⭐ star ⭐, i'll do it back 😊 (lol)
 
