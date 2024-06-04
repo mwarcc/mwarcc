@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwarcc&label=Profile%20views&color=0e75b6&style=flat" alt="mwarcc" /> </p>
 
-- 🔭 I’m currently working on an API **MSP-Scammers**
+- 🔭 I’m currently working on finding vulnerabilities.
 
-- 🌱 I’m currently learning **BlackSheep, FastAPI**
+- 🌱 I’m currently learning **BlackSheep, FastAPI, React.js**
 
 - 📫 How to reach me **stevenev60@gmail.com**
 
